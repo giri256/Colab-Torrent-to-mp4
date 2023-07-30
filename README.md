@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/user/repo/blob/main/notebook.ipynb](https://github.com/giri256/Colab-Torrent-to-mp4/blob/main/Colab_Torrent_to_mp4.ipynb))
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/giri256/Colab-Torrent-to-mp4/blob/main/Colab_Torrent_to_mp4.ipynb)
+
 
 # Torrent to Google Drive Downloader and Converter
 
