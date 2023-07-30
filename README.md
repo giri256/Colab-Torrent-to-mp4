@@ -24,7 +24,3 @@ This Colab Notebook allows you to download your favorite videos from torrents di
 ## Acknowledgements
 
 This script uses the [libtorrent](https://www.libtorrent.org/) library for torrent downloading and [FFmpeg](https://ffmpeg.org/) for video file conversion.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
