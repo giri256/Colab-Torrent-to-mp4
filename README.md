@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giri256/repo/blob/main/Colab-Torrent-to-mp4
+.ipynb)
+
+
 # Torrent to Google Drive Downloader and Converter
 
 This Colab Notebook allows you to download your favorite videos from torrents directly in Google Colab, convert them to MP4 format, and save them to your Google Drive. This is especially helpful for playing videos on older TVs that only support the MP4 format. Simply download your neatly processed output MP4 file from Google Drive onto a pendrive and watch it on your TV.
